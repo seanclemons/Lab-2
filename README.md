@@ -34,5 +34,8 @@ You can always install software onto your Box using the command line. However, C
 We can easily add new items to the Install Software screen, so feel free to submit requests.
 
 [Install Software documentation](https://codio.com/docs/ide/boxes/installsw/box-parts/)# Lab-2
+<<<<<<< HEAD
 # lab2pt2
 # lab2pt2
+=======
+>>>>>>> 183d2b06bd9a1c9b41b6c0e2bf58603d8cd76d13
